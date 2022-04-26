@@ -412,7 +412,7 @@ nav img{
         left: 165px;
     }
     .educontent{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(C:/Users/RYZEN/Desktop/Project_website/images/mainbg.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/mainbg.jpg);
         width: 10%;
         padding: inherit
     }
