@@ -432,7 +432,7 @@ nav img{
         display: none;
     }
     .lowerpart2{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(C:/Users/RYZEN/Desktop/Project_website/images/images.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/images.jpg);
         width: 100%;
         opacity: 90%;
         
@@ -452,7 +452,7 @@ nav img{
         color: white;
     }
     .lowerpart3{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(C:/Users/RYZEN/Desktop/Project_website/images/aboutme.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/aboutme.jpg);
         width: 100%;
         opacity: 90%;
         
